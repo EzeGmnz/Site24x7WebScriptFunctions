@@ -18,7 +18,7 @@ load_page("https://www.google.com")
 wait_for_page_to_load()
 verify_page_load_status()
 
-begin_step("Step - 2 : go to Sign in Page", "https://www.google.com")
+begin_step("Step - 2 : Click main function", "https://www.google.com")
 click_element_by_xpath("//input[@title='Search']", "", "")
 wait_for_page_to_load()
 verify_page_load_status()
