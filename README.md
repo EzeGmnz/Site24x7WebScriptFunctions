@@ -4,6 +4,7 @@ Python implementation of Site24x7's web script functions
 Implements Site24x7 web script functions in order to debug and run tests locally befor submitting them. Uses Python's Selenium webdriver.
 
 Requires [GeckoDriver](https://github.com/mozilla/geckodriver/releases) for Firefox
+
 Requires [Chromium WebDriver](https://chromedriver.chromium.org/) for Chrome
 
 The definition of each function can be found [here](https://www.site24x7.com/help/admin/adding-a-monitor/advanced-web-script-editing.html)
